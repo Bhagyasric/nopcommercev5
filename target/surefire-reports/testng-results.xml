@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="48979" started-at="2020-04-27T20:15:15Z" finished-at="2020-04-27T20:16:04Z">
+    <groups>
+    </groups>
+    <test name="chromeTest" duration-ms="48979" started-at="2020-04-27T20:15:15Z" finished-at="2020-04-27T20:16:04Z">
+      <class name="com.nopcommerce.testCases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.nopcommerce.testCases.TC_LoginTest_001@708f5957]" name="setUp" is-config="true" duration-ms="7897" started-at="2020-04-27T20:15:15Z" finished-at="2020-04-27T20:15:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.nopcommerce.testCases.TC_LoginTest_001@708f5957]" name="logintest" duration-ms="7117" started-at="2020-04-27T20:15:23Z" finished-at="2020-04-27T20:15:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.testCases.TC_LoginTest_001@708f5957]" name="tearDown" is-config="true" duration-ms="735" started-at="2020-04-27T20:15:30Z" finished-at="2020-04-27T20:15:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nopcommerce.testCases.TC_LoginTest_001 -->
+      <class name="com.nopcommerce.testCases.TC_AddCustomerTest_003">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.nopcommerce.testCases.TC_AddCustomerTest_003@68999068]" name="setUp" is-config="true" duration-ms="8504" started-at="2020-04-27T20:15:31Z" finished-at="2020-04-27T20:15:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.nopcommerce.testCases.TC_AddCustomerTest_003@68999068]" name="addNewCustomer" duration-ms="23882" started-at="2020-04-27T20:15:39Z" finished-at="2020-04-27T20:16:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopcommerce.testCases.TC_AddCustomerTest_003@68999068]" name="tearDown" is-config="true" duration-ms="715" started-at="2020-04-27T20:16:03Z" finished-at="2020-04-27T20:16:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nopcommerce.testCases.TC_AddCustomerTest_003 -->
+    </test> <!-- chromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>

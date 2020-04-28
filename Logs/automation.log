@@ -915,3 +915,11 @@
 [INFO ] 2020-04-21 22:29:53.187 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
 [INFO ] 2020-04-21 22:30:02.157 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
 [INFO ] 2020-04-21 22:30:02.157 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 
+[INFO ] 2020-04-22 15:41:24.112 [TestNG-tests-1] TC_LoginTest_001 - *******TC-LoginTest-001 starting*****
+[INFO ] 2020-04-22 15:41:26.807 [TestNG-tests-1] TC_LoginTest_001 - *****providing login details****
+[INFO ] 2020-04-22 15:41:34.027 [TestNG-tests-1] TC_LoginTest_001 - *****logintest passed*****
+[INFO ] 2020-04-22 15:41:34.032 [TestNG-tests-1] TC_LoginTest_001 - ****finished TC logintest 001 ****
+[INFO ] 2020-04-22 15:41:53.466 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 statred  *********** 
+[INFO ] 2020-04-22 15:41:56.445 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Providing customer details  *********** 
+[INFO ] 2020-04-22 15:42:05.823 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************  Customer added succesfully *********** 
+[INFO ] 2020-04-22 15:42:05.827 [TestNG-tests-1] TC_AddCustomerTest_003 - ***************   TC_AddCustomerTest_003 Finished  *********** 

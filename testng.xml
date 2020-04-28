@@ -11,6 +11,7 @@
     <classes>
       <class name="com.nopcommerce.testCases.TC_LoginTest_001"/>
       <class name="com.nopcommerce.testCases.TC_AddCustomerTest_003"/>
+       <class name="com.nopcommerce.testCases.TC_SearchCustomerByEmail_004"/>
  <!--  <class name="com.nopcommerce.testCases.TC_LoginDDT_002"/>
        <class name="com.nopcommerce.testCases.TC_AddCustomerTest_003"/>
         <class name="com.nopcommerce.testCases.TC_SearchCustomerByEmail_004"/>
